@@ -14,3 +14,4 @@ __pycache__/
 .python-version
 # prefix for devs private stuff kept with the project
 private_*
+.pybuild/
